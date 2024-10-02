@@ -1,0 +1,41 @@
+.presentation-container {
+  background-color: #f0f0f0;
+}
+
+
+.title-1,
+.title-2 {
+  width: 60%;
+  margin: auto;
+  padding-top: 2rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+.title-1 {
+  font-size: 40px;
+  font-weight: 900;
+  color: #001d76;
+}
+
+.title-2 {
+  font-size: 25px;
+  font-weight: 300;
+  width: 60%;
+  color: #001d76;
+  margin-top: 5px;
+}
+
+.banner {
+  width: 60%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.banner img {
+  width: 500px;
+  height: 500px;
+}

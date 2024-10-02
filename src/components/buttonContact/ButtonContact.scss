@@ -1,0 +1,27 @@
+.contact-container {
+  text-align: center;
+  margin-top: 1rem;
+  margin-bottom: 4rem;
+}
+
+.button {
+  margin-top: 2rem;
+  color: #001d76;
+  background-color: #aabdfa;
+  font-size: 20px;
+  font-weight: 700;
+  border: 1px solid #aabdfa;
+  border-radius: 25px;
+  padding: 10px;
+  margin-right: 3rem;
+  margin: auto;
+}
+
+.button:hover {
+  border: 1px solid #001d76;
+  background-color: #001d76;
+  color: white;
+  cursor: pointer;
+  box-shadow: rgba(255, 255, 255, 0.25) 0px 4px 10px,
+    rgba(255, 255, 255, 0.15) 0px 0px 20px, rgba(255, 255, 255, 0.1) 0px 0px 5px;
+}

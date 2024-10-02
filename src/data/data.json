@@ -1,0 +1,45 @@
+[
+  {
+    "title": "Kasa",
+    "image": "images/Kasa.png",
+    "url": "https://p8-kasa.netlify.app",
+    "github": "https://github.com/MathScic/P8-Kasa",
+    "technologies": ["React, JSON, NodeJS"],
+    "description": "Ce projet avait pour but de nous apprendre à utiliser correctement React pour créer le site vitrine de l'agence de location Kasa"
+  },
+
+  {
+    "title": "724Event",
+    "image": "images/724.png",
+    "url": "https://724event-website.netlify.app",
+    "github": "https://github.com/MathScic/P10-END",
+    "technologies": ["React"],
+    "description": "Ce projet avait pour but de nous apprendre à gérer les bugs sur un site déjà existant et à coder, et de nous apprendre à créer un cahier des recettes. "
+  },
+
+  {
+    "title": "Argent Bank ",
+    "image": "images/ArgentBank.png",
+    "url": "",
+    "github": "https://github.com/MathScic/P11-Soutenance",
+    "technologies": ["React, NodeJS, MonggoDB"],
+    "description": "Argent Bank nous a permis d'apprendre à gérer une base de donnée avec MongoDb afin de pouvoir stocker et utiliser des données pour s'identifier lors de l'authentification d'un compte  "
+  },
+
+  {
+    "title": "Liste Marvel ",
+    "image": "images/marvel-banner.png",
+    "url": "https://my-marvel-list.netlify.app",
+    "github": "https://github.com/MathScic/Liste-Marvel",
+    "technologies": ["React, NodeJS, API rest"],
+    "description": "Ce projet a permis de continuer a parfaire mon expérience sur React et l'utilisation de NodeJS ainsi que des API. "
+  },
+  {
+    "title": "Oh My Food",
+    "image": "images/Ohmyfood.png",
+    "url": "https://ohmyfood-website-project.netlify.app",
+    "github": "https://github.com/MathScic/P4_Scicluna_Mathieu_24_04_23",
+    "technologies": ["HTML/CSS"],
+    "description": "A l'issue de ce projet on a appris a gérer les animations en CSS ainsi que les liens pour naviguer de pages en pages"
+  }
+]

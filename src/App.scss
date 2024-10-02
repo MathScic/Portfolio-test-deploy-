@@ -1,0 +1,17 @@
+.card {
+  width: 400;
+  background-color: yellow;
+}
+
+.app-container {
+  display: flex;
+  flex-direction: column;  /* Permet d'empiler le contenu verticalement */
+  min-height: 100vh; /* Prend toute la hauteur de la fenêtre */
+  margin: 0; /* Pas de marges par défaut */
+  padding: 0; /* Pas de padding par défaut */
+}
+
+  main {
+    flex: ; /* Permet à la partie principale de s'étendre */
+  }
+}
